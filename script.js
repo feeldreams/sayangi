@@ -6,7 +6,7 @@ wallpaper.style="transform: scale(1);";
 bq.style = "position:relative;opacity:1;visibility:visible;margin-top:0;";
 }
 
-function memulai(){suratin.style="transition:all 1s ease;transform:scale(.1);opacity:0";ket.style="transition:all 1s ease;transform:scale(.1);opacity:0";pesanwhatsapp = pesanWA.innerHTML;setTimeout(mulaikonten,300)}
+function memulai(){suratin.style="transition:all 1s ease;transform:scale(.1);opacity:0";ket.style="transition:all 1s ease;transform:scale(.1);opacity:0";setTimeout(mulaikonten,300)}
   function fthilang(){fotoakhir.style="display:inline-flex;opacity:.5;transition:all .7s ease;transform:scale(.1)";}
   function jjfoto(){fotoakhir.style.animation="rto .8s infinite alternate";}
   
