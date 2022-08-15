@@ -62,7 +62,7 @@ function mulaiketik2() {if(ac<vketik2.length){kalimatb.innerHTML += vketik2.char
   
   async function dibalas(){
       setInterval(createHeart,200);
-      fthilang();ftganti=2;setTimeout(ftmuncul,400);
+      fthilang();ftganti=0; fotoakhir.src=fotoakhir1.src; setTimeout(ftmuncul,400);
       wallpaper.style="transform: scale(1)";
       Tombol.style="opacity:0;transform: scale(.1);";
       Content.style = "transition:all 1s ease;opacity:1;margin-top:7vh;";
