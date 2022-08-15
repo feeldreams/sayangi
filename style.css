@@ -50,4 +50,4 @@ blockquote p{margin-left:20px;margin-right:20px;font-size:19px;font-weight:700;l
 .fa-heart {opacity:.3;color:white;font-size: 27px;position: absolute;animation:  heartMove linear 1;top: -10vh;z-index: 0;}
 @keyframes heartMove {0%{transform: translateY(-10vh) ;} 100%{transform: translateY(100vh) ;}}
 
-#pesanWA, #pesanstiker > *, #pesanAwal, #tgeser, #tklik, #tiya, #tmbl2, #linkmp3, #fotoakhir2, #pesanditolak > *, #kalimat2, #kalimatb2, #kalimatc2, #kalimat3, #kalimatb3, #kalimatc3, #kalimatbb{display:none}
+#pesanWA, #pesanstiker > *, #pesanAwal, #tgeser, #tklik, #tmbl2, #tmbl3, #linkmp3, #fotoakhir2, #pesanditolak > *, #kalimat2, #kalimatb2, #kalimatc2, #kalimat3, #kalimatb3, #kalimatc3, #kalimatbb{display:none}
